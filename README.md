@@ -1,6 +1,6 @@
 ﻿# Jogo-Pong-em-JavaScript
 Para rodar o jogo:<br>
-1- Copie o codigo Scket.JS;<br>
+1- Copie o codigo Scketch.JS;<br>
 2- Abra o p5.js Web Editor Atraves do Google;<br>
 3- Cole o codigo no editor p5.js;<br>
 4- Clique no boão play acima do editor;<br>
